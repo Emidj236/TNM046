@@ -1,0 +1,12 @@
+C:/Users/PC/Documents/TNM046/Labs/CMakeFiles/tnm046-labs.dir
+C:/Users/PC/Documents/TNM046/Labs/CMakeFiles/INSTALL.dir
+C:/Users/PC/Documents/TNM046/Labs/CMakeFiles/ALL_BUILD.dir
+C:/Users/PC/Documents/TNM046/Labs/CMakeFiles/ZERO_CHECK.dir
+C:/Users/PC/Documents/TNM046/Labs/glfw-3.3.2/CMakeFiles/uninstall.dir
+C:/Users/PC/Documents/TNM046/Labs/glfw-3.3.2/CMakeFiles/INSTALL.dir
+C:/Users/PC/Documents/TNM046/Labs/glfw-3.3.2/CMakeFiles/ALL_BUILD.dir
+C:/Users/PC/Documents/TNM046/Labs/glfw-3.3.2/src/CMakeFiles/glfw.dir
+C:/Users/PC/Documents/TNM046/Labs/glfw-3.3.2/src/CMakeFiles/INSTALL.dir
+C:/Users/PC/Documents/TNM046/Labs/glew/CMakeFiles/GLEW.dir
+C:/Users/PC/Documents/TNM046/Labs/glew/CMakeFiles/INSTALL.dir
+C:/Users/PC/Documents/TNM046/Labs/glew/CMakeFiles/ALL_BUILD.dir
